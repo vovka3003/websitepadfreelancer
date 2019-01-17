@@ -1,0 +1,3 @@
+User-agent: *
+Host: websitepadfreelancer.tk
+Sitemap: http://websitepadfreelancer.tk/sitemap.xml
